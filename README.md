@@ -1,5 +1,1 @@
-Meu primeiro sistema no GIT
-
-Alteração para entender o commit
-
-git soft
+Iniciando conhecimentos em GIT
